@@ -28,8 +28,9 @@ SECRET_KEY = 'asv=%4d8l^#h828%yz=w#!u@3c49gbk)w5ktg*l380^xf8f+ae'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://manojlenin.pythonanywhere.com/']
 # http://manojlenin.pythonanywhere.com/
+ALLOWED_HOSTS = ['manojlenin.pythonanywhere.com']
+
 
 # Application definition
 
